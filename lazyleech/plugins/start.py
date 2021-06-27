@@ -21,4 +21,4 @@ async def start_cmd(client, message):
 I can leech direct / torrent links.
 For More Info /help
 
-Source Code - https://github.com/WeebTime/Torrent-Bot-Lazyleech'''.strip())
+Source Code - '''.strip())
